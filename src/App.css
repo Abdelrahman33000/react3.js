@@ -1,0 +1,61 @@
+.hero-section {
+  background-image: url(../calmingdown-3.png);
+  padding: 40px 0;
+  text-align: center;
+  background-size: cover;
+}
+
+.about-section {
+  background-color: #fff;
+  padding: 0;
+  text-align: center;
+}
+
+.skills-section {
+  background-color: #f1f1f1;
+  padding: 40px 0;
+}
+
+.skills-section ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.portfolio-section {
+  background-color: #fff;
+  padding: 40px 0;
+}
+
+.portfolio-card {
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.dark-bg {
+  background-color: #333;
+  color: #fff;
+}
+
+.light-bg {
+  background-color: #f1f1f1;
+  color: #333;
+}
+
+.footer-section {
+
+  background-color: #333;
+  padding: 40px 0;
+  text-align: center;
+  color: #fff;
+}
+
+.footer-section .social-icons {
+  margin-top: 20px;
+}
+
+.footer-section .social-icons a {
+  margin-right: 10px;
+  color: #fff;
+  font-size: 20px;
+}
+
